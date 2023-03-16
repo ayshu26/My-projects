@@ -1,0 +1,18 @@
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#app{
+    background-color: antiquewhite;
+}
+#game{
+    background-color: beige;
+}
+#chatbot{
+    background-color: bisque;
+}
+body{
+    text-align: center;
+}
